@@ -75,7 +75,7 @@ This package supports a diverse range of React-based projects:
 
 
 
-## Supported Platforms
+## Other Supported Platforms
 
 Our AI technology is supported across all platforms, delivering a unified experience for users everywhere.
 
@@ -100,15 +100,6 @@ Join our community on [Discord](https://discord.gg/e2arxq9Js4) to connect with o
 	   <img src="./assets/button_community.png" alt="Sista AI Community"/>
 	</a>
 </p>
-
-
-## Contributing
-
-Your contributions are warmly welcomed! Let's collaborate 🤝
-
-## License
-
-Licensed under [CC BY-NC-ND 3.0](./LICENSE).
 
 <br/>
 
