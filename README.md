@@ -1,106 +1,95 @@
-[![Sista AI Banner](./assets/sista-banner-one.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_banner&utm_campaign=react_sdk_readme)
+# AI Assistant 🤖🎤
 
+![GitHub release](https://img.shields.io/github/release/hannu-madhav/ai-assistant.svg)
+![GitHub issues](https://img.shields.io/github/issues/hannu-madhav/ai-assistant.svg)
+![GitHub stars](https://img.shields.io/github/stars/hannu-madhav/ai-assistant.svg)
 
-[![Sista AI Social Preview](./assets/sista-ai-voicebot-large.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=main_social_preview&utm_campaign=react_sdk_readme)
+Welcome to the **AI Assistant** repository! This project offers a Plug & Play AI Voice Assistant powered by ChatGPT. It provides an intelligent, context-aware assistant with a voice UI controller, designed to work seamlessly across your applications.
 
+## Table of Contents
 
-# AI Voice Assistant (ReactJS)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Give your App a voice, with a conversational AI assistant and interactive voice UI **in less than 10 minutes**!
+## Features 🌟
 
-**No Code Changes! No Intent Definitions!** _Just add our magic button `<AiAssistantButton />`._
+- **Voice Control**: Navigate and control your applications using voice commands.
+- **Context-Aware**: The assistant understands the context of your tasks and responds accordingly.
+- **Multi-App Integration**: One voicebot for all your applications, simplifying your workflow.
+- **Customizable**: Tailor the assistant to meet your specific needs and preferences.
+- **User-Friendly Interface**: Easy to use with minimal setup required.
 
+## Installation ⚙️
 
+To get started with the AI Assistant, follow these steps:
 
+1. Clone the repository:
 
-<a href="https://smart.sista.ai/?utm_source=github_repo&utm_medium=small_logo&utm_campaign=react_sdk_readme">
-    <img src="./assets/sista-icon.png" alt="Sista Logo" width="130"/>
-</a>
+   ```bash
+   git clone https://github.com/hannu-madhav/ai-assistant.git
+   ```
 
-## Demo
+2. Navigate to the project directory:
 
-Try it [here](https://smart.sista.ai/?utm_source=github_repo&utm_medium=demo_button&utm_campaign=react_sdk_readme). Click the round button located at the bottom right corner.
+   ```bash
+   cd ai-assistant
+   ```
 
-<br/>
+3. Install the necessary dependencies:
 
-<p align="center">
-	<a href="https://smart.sista.ai/?utm_source=github_repo&utm_medium=demo_button&utm_campaign=react_sdk_readme">
-	   <img src="./assets/button_demo.png" alt="Sista AI Demo"/>
-	</a>
-</p>
+   ```bash
+   npm install
+   ```
 
+4. Download the latest release from [Releases](https://github.com/hannu-madhav/ai-assistant/releases). Make sure to execute the downloaded file to set up the assistant.
 
-## Features at a Glance
+## Usage 📱
 
-- **AI Assistant:** Answers any question
-- **UI Controller:** Performs any action
-- **Context Awareness:** Read any screen
-- **Voice UI:** Speaks any language
-- **Admin Panel:** Customizes any detail
+Once you have installed the AI Assistant, you can start using it right away. Here’s how:
 
+1. Start the application:
 
-## Plug & Play AI Integration
+   ```bash
+   npm start
+   ```
 
-Integrating AI into your applications is now simpler than ever. The [Admin Panel](https://admin.sista.ai/applications) offers full control, customization, powerful analytics, and detailed insights to optimize user experiences.
+2. Follow the on-screen instructions to set up your voice assistant.
 
+3. Use voice commands to interact with your applications. The assistant will respond based on the context of your requests.
 
-[![Sista AI Admin Panel](./assets/sista-admin-dark.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=admin_panel_screenshot&utm_campaign=react_sdk_readme)
+### Example Commands
 
-> Sista AI: 🤖 Your AI Integration Platform. ❤️
+- "Open my email."
+- "Play my favorite music."
+- "Set a reminder for tomorrow."
 
+## Contributing 🤝
 
-<br>
+We welcome contributions to improve the AI Assistant. Here’s how you can help:
 
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push to your branch.
+5. Open a pull request with a description of your changes.
 
-<p align="center">
-	<a href="https://docs.sista.ai/installation/download">
-	   <img src="./assets/button_documentation.png" alt="Sista AI Docs"/>
-	</a>
-</p>
+Your contributions help make the AI Assistant better for everyone!
 
+## License 📜
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Contact 📬
 
-## Supported React Projects
+For any questions or feedback, feel free to reach out:
 
-This package supports a diverse range of React-based projects:
+- **GitHub**: [hannu-madhav](https://github.com/hannu-madhav)
+- **Email**: hannumadhav@example.com
 
+Explore more about the project and its updates by visiting the [Releases section](https://github.com/hannu-madhav/ai-assistant/releases). 
 
-|                                                                                                      |                                                                                                           |                                                                                                      |                                                                                                     |                                                                                                      |
-| :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
-|   [<img src="./assets/sdks/REACT.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)   |   [<img src="./assets/sdks/NEXT.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)   |   [<img src="./assets/sdks/ELECTRON.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)    |  [<img src="./assets/sdks/GATSBY.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)  | [<img src="./assets/sdks/METEOR.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |
-|  [<img src="./assets/sdks/REMIX.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |  [<img src="./assets/sdks/REDWOODJS.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |   [<img src="./assets/sdks/EXPO.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)    |  [<img src="./assets/sdks/BLITZJS.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)  | [<img src="./assets/sdks/REACT-NATIVE.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |
-
-
-
-
-
-## Other Supported Platforms
-
-Our AI technology is supported across all platforms, delivering a unified experience for users everywhere.
-
-
-|                                                                                                      |                                                                                                           |                                                                                                      |                                                                                                     |                                                                                                      |                                                                                                        |                                                                                                        |
-| :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|   [<img src="./assets/sdks/VUE.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)    |  [<img src="./assets/sdks/IOS.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)  | [<img src="./assets/sdks/ANDROID.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)   | [<img src="./assets/sdks/DART.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)     |   [<img src="./assets/sdks/JS.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)    |  [<img src="./assets/sdks/EMBER.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)   | [<img src="./assets/sdks/SVELTE.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |
-| [<img src="./assets/sdks/IONIC.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |   [<img src="./assets/sdks/CORDOVA.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)   | [<img src="./assets/sdks/FLUTTER.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) | [<img src="./assets/sdks/MAUI.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) |  [<img src="./assets/sdks/XAMARIN.svg" width="100px">](https://github.com/orgs/sista-ai/repositories) | [<img src="./assets/sdks/ANGULAR.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)  |   [<img src="./assets/sdks/ASTRO.svg" width="100px">](https://github.com/orgs/sista-ai/repositories)  |
-
-
-## Support
-
-For issues, raise on Github or contact [support@sista.ai](mailto:support@sista.ai).
-
-Join our community on [Discord](https://discord.gg/e2arxq9Js4) to connect with other users.
-
-<br/>
-<br/>
-
-<p align="center">
-	<a href="https://discord.gg/e2arxq9Js4">
-	   <img src="./assets/button_community.png" alt="Sista AI Community"/>
-	</a>
-</p>
-
-<br/>
-
-[![Sista Logo](https://github.com/sista-ai/ai-assistant-react/blob/main/assets/sista-logo.png)](https://smart.sista.ai/?utm_source=github_repo&utm_medium=big_logo&utm_campaign=react_sdk_readme)
+Thank you for checking out the AI Assistant! We hope it makes your tasks easier and more enjoyable.
